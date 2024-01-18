@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hookdeck.com?ref=github-readme">
-   <img src="./hookdeck.png" alt="Hookdeck - A reliable event gateway for asynchronous applications">
+   <img src="hookdeck.png" alt="Hookdeck - A reliable event gateway for asynchronous applications">
   </a>
 
   <p align="center">
